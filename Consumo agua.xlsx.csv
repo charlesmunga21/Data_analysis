@@ -1,0 +1,581 @@
+Edificio;Consumo (m3);Mes;Año
+Edificio Almendro;69,00;enero;2021
+Edificio Almendro;112,00;febrero;2021
+Edificio Almendro;131,00;marzo;2021
+Edificio Almendro;152,00;abril;2021
+Edificio Almendro;126,00;mayo;2021
+Edificio Almendro;121,00;junio;2021
+Edificio Almendro;115,00;julio;2021
+Edificio Almendro;111,00;agosto;2021
+Edificio Almendro;75,00;setiembre;2021
+Edificio Almendro;111,00;octubre;2021
+Edificio Almendro;124,00;noviembre;2021
+Edificio Almendro;70,00;diciembre;2021
+Edificio Caoba (Piñal);0,00;enero;2021
+Edificio Caoba (Piñal);0,00;febrero;2021
+Edificio Caoba (Piñal);0,00;marzo;2021
+Edificio Caoba (Piñal);431,00;abril;2021
+Edificio Caoba (Piñal);37,00;mayo;2021
+Edificio Caoba (Piñal);25,00;junio;2021
+Edificio Caoba (Piñal);20,00;julio;2021
+Edificio Caoba (Piñal);20,00;agosto;2021
+Edificio Caoba (Piñal);20,00;setiembre;2021
+Edificio Caoba (Piñal);28,00;octubre;2021
+Edificio Caoba (Piñal);27,00;noviembre;2021
+Edificio Caoba (Piñal);15,00;diciembre;2021
+Edificio Carey;254,00;enero;2021
+Edificio Carey;402,00;febrero;2021
+Edificio Carey;454,00;marzo;2021
+Edificio Carey;690,00;abril;2021
+Edificio Carey;166,00;mayo;2021
+Edificio Carey;55,00;junio;2021
+Edificio Carey;61,00;julio;2021
+Edificio Carey;56,00;agosto;2021
+Edificio Carey;9,00;setiembre;2021
+Edificio Carey;43,00;octubre;2021
+Edificio Carey;61,00;noviembre;2021
+Edificio Carey;32,00;diciembre;2021
+Edificio Cedro ;87,00;enero;2021
+Edificio Cedro ;125,00;febrero;2021
+Edificio Cedro ;130,00;marzo;2021
+Edificio Cedro ;149,00;abril;2021
+Edificio Cedro ;116,00;mayo;2021
+Edificio Cedro ;95,00;junio;2021
+Edificio Cedro ;293,00;julio;2021
+Edificio Cedro ;89,00;agosto;2021
+Edificio Cedro ;52,00;setiembre;2021
+Edificio Cedro ;101,00;octubre;2021
+Edificio Cedro ;90,00;noviembre;2021
+Edificio Cedro ;49,00;diciembre;2021
+Edificio Ebano;106,00;enero;2021
+Edificio Ebano;94,00;febrero;2021
+Edificio Ebano;112,00;marzo;2021
+Edificio Ebano;119,00;abril;2021
+Edificio Ebano;98,00;mayo;2021
+Edificio Ebano;100,00;junio;2021
+Edificio Ebano;104,00;julio;2021
+Edificio Ebano;65,00;agosto;2021
+Edificio Ebano;62,00;setiembre;2021
+Edificio Ebano;63,00;octubre;2021
+Edificio Ebano;93,00;noviembre;2021
+Edificio Ebano;87,00;diciembre;2021
+Edificio Gavilan ;66,00;enero;2021
+Edificio Gavilan ;87,00;febrero;2021
+Edificio Gavilan ;101,00;marzo;2021
+Edificio Gavilan ;112,00;abril;2021
+Edificio Gavilan ;101,00;mayo;2021
+Edificio Gavilan ;90,00;junio;2021
+Edificio Gavilan ;86,00;julio;2021
+Edificio Gavilan ;65,00;agosto;2021
+Edificio Gavilan ;58,00;setiembre;2021
+Edificio Gavilan ;66,00;octubre;2021
+Edificio Gavilan ;70,00;noviembre;2021
+Edificio Gavilan ;35,00;diciembre;2021
+Edificio Guarumo;106,00;enero;2021
+Edificio Guarumo;124,00;febrero;2021
+Edificio Guarumo;121,00;marzo;2021
+Edificio Guarumo;151,00;abril;2021
+Edificio Guarumo;99,00;mayo;2021
+Edificio Guarumo;107,00;junio;2021
+Edificio Guarumo;115,00;julio;2021
+Edificio Guarumo;98,00;agosto;2021
+Edificio Guarumo;87,00;setiembre;2021
+Edificio Guarumo;132,00;octubre;2021
+Edificio Guarumo;146,00;noviembre;2021
+Edificio Guarumo;154,00;diciembre;2021
+Edificio Guayacán (Loma);0,00;enero;2021
+Edificio Guayacán (Loma);0,00;febrero;2021
+Edificio Guayacán (Loma);0,00;marzo;2021
+Edificio Guayacán (Loma);0,00;abril;2021
+Edificio Guayacán (Loma);0,00;mayo;2021
+Edificio Guayacán (Loma);0,00;junio;2021
+Edificio Guayacán (Loma);0,00;julio;2021
+Edificio Guayacán (Loma);0,00;agosto;2021
+Edificio Guayacán (Loma);0,00;setiembre;2021
+Edificio Guayacán (Loma);0,00;octubre;2021
+Edificio Guayacán (Loma);0,00;noviembre;2021
+Edificio Guayacán (Loma);0,00;diciembre;2021
+Edificio Laurel;546,00;enero;2021
+Edificio Laurel;172,00;febrero;2021
+Edificio Laurel;92,00;marzo;2021
+Edificio Laurel;103,00;abril;2021
+Edificio Laurel;82,00;mayo;2021
+Edificio Laurel;72,00;junio;2021
+Edificio Laurel;68,00;julio;2021
+Edificio Laurel;71,00;agosto;2021
+Edificio Laurel;46,00;setiembre;2021
+Edificio Laurel;82,00;octubre;2021
+Edificio Laurel;73,00;noviembre;2021
+Edificio Laurel;37,00;diciembre;2021
+Edificio Nogal;45,00;enero;2021
+Edificio Nogal;64,00;febrero;2021
+Edificio Nogal;106,00;marzo;2021
+Edificio Nogal;92,00;abril;2021
+Edificio Nogal;72,00;mayo;2021
+Edificio Nogal;60,00;junio;2021
+Edificio Nogal;61,00;julio;2021
+Edificio Nogal;58,00;agosto;2021
+Edificio Nogal;40,00;setiembre;2021
+Edificio Nogal;69,00;octubre;2021
+Edificio Nogal;72,00;noviembre;2021
+Edificio Nogal;34,00;diciembre;2021
+Edificio Surá;207,00;enero;2021
+Edificio Surá;257,00;febrero;2021
+Edificio Surá;326,00;marzo;2021
+Edificio Surá;438,00;abril;2021
+Edificio Surá;394,00;mayo;2021
+Edificio Surá;600,00;junio;2021
+Edificio Surá;1171,00;julio;2021
+Edificio Surá;1203,00;agosto;2021
+Edificio Surá;226,00;setiembre;2021
+Edificio Surá;243,00;octubre;2021
+Edificio Surá;255,00;noviembre;2021
+Edificio Surá;135,00;diciembre;2021
+Edificio Almendro;64,00;Enero;2022
+Edificio Almendro;104,00;Febrero;2022
+Edificio Almendro;110,00;Marzo;2022
+Edificio Almendro;109,00;Abril;2022
+Edificio Almendro;112,00;Mayo;2022
+Edificio Almendro;110,00;Junio;2022
+Edificio Almendro;103,00;Julio;2022
+Edificio Almendro;109,00;Agosto;2022
+Edificio Almendro;72,00;Setiembre;2022
+Edificio Almendro;79,00;Octubre;2022
+Edificio Almendro;80,00;Noviembre;2022
+Edificio Almendro;33,00;Diciembre;2022
+Edificio Caoba (Piñal);12,00;Enero;2022
+Edificio Caoba (Piñal);24,00;Febrero;2022
+Edificio Caoba (Piñal);25,00;Marzo;2022
+Edificio Caoba (Piñal);22,00;Abril;2022
+Edificio Caoba (Piñal);28,00;Mayo;2022
+Edificio Caoba (Piñal);26,00;Junio;2022
+Edificio Caoba (Piñal);25,00;Julio;2022
+Edificio Caoba (Piñal);22,00;Agosto;2022
+Edificio Caoba (Piñal);15,00;Setiembre;2022
+Edificio Caoba (Piñal);17,00;Octubre;2022
+Edificio Caoba (Piñal);14,00;Noviembre;2022
+Edificio Caoba (Piñal);11,00;Diciembre;2022
+Edificio Carey;42,00;Enero;2022
+Edificio Carey;60,00;Febrero;2022
+Edificio Carey;72,00;Marzo;2022
+Edificio Carey;81,00;Abril;2022
+Edificio Carey;108,00;Mayo;2022
+Edificio Carey;1028,00;Junio;2022
+Edificio Carey;22,00;Julio;2022
+Edificio Carey;19,00;Agosto;2022
+Edificio Carey;3,00;Setiembre;2022
+Edificio Carey;4,00;Octubre;2022
+Edificio Carey;5,00;Noviembre;2022
+Edificio Carey;18,00;Diciembre;2022
+Edificio Cedro ;48,00;Enero;2022
+Edificio Cedro ;85,00;Febrero;2022
+Edificio Cedro ;96,00;Marzo;2022
+Edificio Cedro ;81,00;Abril;2022
+Edificio Cedro ;77,00;Mayo;2022
+Edificio Cedro ;85,00;Junio;2022
+Edificio Cedro ;155,00;Julio;2022
+Edificio Cedro ;97,00;Agosto;2022
+Edificio Cedro ;130,00;Setiembre;2022
+Edificio Cedro ;119,00;Octubre;2022
+Edificio Cedro ;103,00;Noviembre;2022
+Edificio Cedro ;57,00;Diciembre;2022
+Edificio Ebano;67,00;Enero;2022
+Edificio Ebano;89,00;Febrero;2022
+Edificio Ebano;100,00;Marzo;2022
+Edificio Ebano;98,00;Abril;2022
+Edificio Ebano;93,00;Mayo;2022
+Edificio Ebano;86,00;Junio;2022
+Edificio Ebano;95,00;Julio;2022
+Edificio Ebano;93,00;Agosto;2022
+Edificio Ebano;110,00;Setiembre;2022
+Edificio Ebano;100,00;Octubre;2022
+Edificio Ebano;92,00;Noviembre;2022
+Edificio Ebano;58,00;Diciembre;2022
+Edificio Gavilan ;70,00;Enero;2022
+Edificio Gavilan ;134,00;Febrero;2022
+Edificio Gavilan ;1248,00;Marzo;2022
+Edificio Gavilan ;95,00;Abril;2022
+Edificio Gavilan ;94,00;Mayo;2022
+Edificio Gavilan ;90,00;Junio;2022
+Edificio Gavilan ;76,00;Julio;2022
+Edificio Gavilan ;85,00;Agosto;2022
+Edificio Gavilan ;61,00;Setiembre;2022
+Edificio Gavilan ;61,00;Octubre;2022
+Edificio Gavilan ;55,00;Noviembre;2022
+Edificio Gavilan ;366,00;Diciembre;2022
+Edificio Guarumo;218,00;Enero;2022
+Edificio Guarumo;347,00;Febrero;2022
+Edificio Guarumo;601,00;Marzo;2022
+Edificio Guarumo;1181,00;Abril;2022
+Edificio Guarumo;131,00;Mayo;2022
+Edificio Guarumo;214,00;Junio;2022
+Edificio Guarumo;109,00;Julio;2022
+Edificio Guarumo;113,00;Agosto;2022
+Edificio Guarumo;123,00;Setiembre;2022
+Edificio Guarumo;140,00;Octubre;2022
+Edificio Guarumo;133,00;Noviembre;2022
+Edificio Guarumo;62,00;Diciembre;2022
+Edificio Guayacán (Loma);0,00;Enero;2022
+Edificio Guayacán (Loma);0,00;Febrero;2022
+Edificio Guayacán (Loma);17,00;Marzo;2022
+Edificio Guayacán (Loma);9,00;Abril;2022
+Edificio Guayacán (Loma);8,00;Mayo;2022
+Edificio Guayacán (Loma);9,00;Junio;2022
+Edificio Guayacán (Loma);19,00;Julio;2022
+Edificio Guayacán (Loma);14,00;Agosto;2022
+Edificio Guayacán (Loma);9,00;Setiembre;2022
+Edificio Guayacán (Loma);8,00;Octubre;2022
+Edificio Guayacán (Loma);8,00;Noviembre;2022
+Edificio Guayacán (Loma);5,00;Diciembre;2022
+Edificio Laurel;42,00;Enero;2022
+Edificio Laurel;79,00;Febrero;2022
+Edificio Laurel;94,00;Marzo;2022
+Edificio Laurel;93,00;Abril;2022
+Edificio Laurel;97,00;Mayo;2022
+Edificio Laurel;94,00;Junio;2022
+Edificio Laurel;80,00;Julio;2022
+Edificio Laurel;86,00;Agosto;2022
+Edificio Laurel;72,00;Setiembre;2022
+Edificio Laurel;88,00;Octubre;2022
+Edificio Laurel;82,00;Noviembre;2022
+Edificio Laurel;32,00;Diciembre;2022
+Edificio Nogal;25,00;Enero;2022
+Edificio Nogal;40,00;Febrero;2022
+Edificio Nogal;56,00;Marzo;2022
+Edificio Nogal;59,00;Abril;2022
+Edificio Nogal;57,00;Mayo;2022
+Edificio Nogal;57,00;Junio;2022
+Edificio Nogal;44,00;Julio;2022
+Edificio Nogal;51,00;Agosto;2022
+Edificio Nogal;68,00;Setiembre;2022
+Edificio Nogal;64,00;Octubre;2022
+Edificio Nogal;58,00;Noviembre;2022
+Edificio Nogal;36,00;Diciembre;2022
+Edificio Surá;202,00;Enero;2022
+Edificio Surá;386,00;Febrero;2022
+Edificio Surá;552,00;Marzo;2022
+Edificio Surá;582,00;Abril;2022
+Edificio Surá;871,00;Mayo;2022
+Edificio Surá;1135,00;Junio;2022
+Edificio Surá;793,00;Julio;2022
+Edificio Surá;798,00;Agosto;2022
+Edificio Surá;805,00;Setiembre;2022
+Edificio Surá;780,00;Octubre;2022
+Edificio Surá;712,00;Noviembre;2022
+Edificio Surá;720,00;Diciembre;2022
+Ombú 1;0,00;Febrero;2022
+Ombú 1;31,00;Marzo;2022
+Ombú 1;30,00;Abril;2022
+Ombú 1;34,00;Mayo;2022
+Ombú 1;31,00;Junio;2022
+Ombú 1;29,00;Julio;2022
+Ombú 1;33,00;Agosto;2022
+Ombú 1;37,00;Setiembre;2022
+Ombú 1;28,00;Octubre;2022
+Ombú 1;22,00;Noviembre;2022
+Ombú 1;10,00;Diciembre;2022
+Ombú 2;0,00;Febrero;2022
+Ombú 2;87,00;Marzo;2022
+Ombú 2;90,00;Abril;2022
+Ombú 2;59,00;Mayo;2022
+Ombú 2;43,00;Junio;2022
+Ombú 2;40,00;Julio;2022
+Ombú 2;38,00;Agosto;2022
+Ombú 2;31,00;Setiembre;2022
+Ombú 2;31,00;Octubre;2022
+Ombú 2;39,00;Noviembre;2022
+Ombú 2;16,00;Diciembre;2022
+Edificio Almendro;70,00;Enero;2023
+Edificio Almendro;141,00;Febrero;2023
+Edificio Almendro;135,00;Marzo;2023
+Edificio Almendro;131,00;Abril;2023
+Edificio Almendro;112,00;Mayo;2023
+Edificio Almendro;119,00;Junio;2023
+Edificio Almendro;119,00;Julio;2023
+Edificio Almendro;106,00;Agosto;2023
+Edificio Almendro;95,00;Setiembre;2023
+Edificio Almendro;104,00;Octubre;2023
+Edificio Almendro;185,00;Noviembre;2023
+Edificio Almendro;40,00;diciembre;2023
+Edificio Caoba (Piñal);15,00;Enero;2023
+Edificio Caoba (Piñal);29,00;Febrero;2023
+Edificio Caoba (Piñal);31,00;Marzo;2023
+Edificio Caoba (Piñal);26,00;Abril;2023
+Edificio Caoba (Piñal);24,00;Mayo;2023
+Edificio Caoba (Piñal);27,00;Junio;2023
+Edificio Caoba (Piñal);22,00;Julio;2023
+Edificio Caoba (Piñal);22,00;Agosto;2023
+Edificio Caoba (Piñal);24,00;Setiembre;2023
+Edificio Caoba (Piñal);27,00;Octubre;2023
+Edificio Caoba (Piñal);24,00;Noviembre;2023
+Edificio Caoba (Piñal);13,00;diciembre;2023
+Edificio Carey;33,00;Enero;2023
+Edificio Carey;63,00;Febrero;2023
+Edificio Carey;94,00;Marzo;2023
+Edificio Carey;54,00;Abril;2023
+Edificio Carey;145,00;Mayo;2023
+Edificio Carey;90,00;Junio;2023
+Edificio Carey;79,00;Julio;2023
+Edificio Carey;69,00;Agosto;2023
+Edificio Carey;59,00;Setiembre;2023
+Edificio Carey;166,00;Octubre;2023
+Edificio Carey;68,00;Noviembre;2023
+Edificio Carey;39,00;diciembre;2023
+Edificio Cedro ;95,00;Enero;2023
+Edificio Cedro ;147,00;Febrero;2023
+Edificio Cedro ;151,00;Marzo;2023
+Edificio Cedro ;169,00;Abril;2023
+Edificio Cedro ;138,00;Mayo;2023
+Edificio Cedro ;138,00;Junio;2023
+Edificio Cedro ;132,00;Julio;2023
+Edificio Cedro ;124,00;Agosto;2023
+Edificio Cedro ;113,00;Setiembre;2023
+Edificio Cedro ;175,00;Octubre;2023
+Edificio Cedro ;196,00;Noviembre;2023
+Edificio Cedro ;87,00;diciembre;2023
+Edificio Ebano;69,00;Enero;2023
+Edificio Ebano;96,00;Febrero;2023
+Edificio Ebano;94,00;Marzo;2023
+Edificio Ebano;117,00;Abril;2023
+Edificio Ebano;99,00;Mayo;2023
+Edificio Ebano;108,00;Junio;2023
+Edificio Ebano;99,00;Julio;2023
+Edificio Ebano;111,00;Agosto;2023
+Edificio Ebano;60,00;Setiembre;2023
+Edificio Ebano;61,00;Octubre;2023
+Edificio Ebano;80,00;Noviembre;2023
+Edificio Ebano;74,00;diciembre;2023
+Edificio Gavilan ;43,00;Enero;2023
+Edificio Gavilan ;83,00;Febrero;2023
+Edificio Gavilan ;77,00;Marzo;2023
+Edificio Gavilan ;71,00;Abril;2023
+Edificio Gavilan ;53,00;Mayo;2023
+Edificio Gavilan ;53,00;Junio;2023
+Edificio Gavilan ;53,00;Julio;2023
+Edificio Gavilan ;45,00;Agosto;2023
+Edificio Gavilan ;27,00;Setiembre;2023
+Edificio Gavilan ;50,00;Octubre;2023
+Edificio Gavilan ;27,00;Noviembre;2023
+Edificio Gavilan ;20,00;diciembre;2023
+Edificio Guarumo;73,00;Enero;2023
+Edificio Guarumo;44,00;Febrero;2023
+Edificio Guarumo;38,00;Marzo;2023
+Edificio Guarumo;15,00;Abril;2023
+Edificio Guarumo;110,00;Mayo;2023
+Edificio Guarumo;138,00;Junio;2023
+Edificio Guarumo;121,00;Julio;2023
+Edificio Guarumo;110,00;Agosto;2023
+Edificio Guarumo;96,00;Setiembre;2023
+Edificio Guarumo;113,00;Octubre;2023
+Edificio Guarumo;107,00;Noviembre;2023
+Edificio Guarumo;43,00;diciembre;2023
+Edificio Guayacán (Loma);10,00;Enero;2023
+Edificio Guayacán (Loma);25,00;Febrero;2023
+Edificio Guayacán (Loma);22,00;Marzo;2023
+Edificio Guayacán (Loma);16,00;Abril;2023
+Edificio Guayacán (Loma);17,00;Mayo;2023
+Edificio Guayacán (Loma);15,00;Junio;2023
+Edificio Guayacán (Loma);14,00;Julio;2023
+Edificio Guayacán (Loma);12,00;Agosto;2023
+Edificio Guayacán (Loma);22,00;Setiembre;2023
+Edificio Guayacán (Loma);17,00;Octubre;2023
+Edificio Guayacán (Loma);14,00;Noviembre;2023
+Edificio Guayacán (Loma);9,00;diciembre;2023
+Edificio Laurel;62,00;Enero;2023
+Edificio Laurel;118,00;Febrero;2023
+Edificio Laurel;124,00;Marzo;2023
+Edificio Laurel;118,00;Abril;2023
+Edificio Laurel;116,00;Mayo;2023
+Edificio Laurel;113,00;Junio;2023
+Edificio Laurel;115,00;Julio;2023
+Edificio Laurel;101,00;Agosto;2023
+Edificio Laurel;76,00;Setiembre;2023
+Edificio Laurel;87,00;Octubre;2023
+Edificio Laurel;76,00;Noviembre;2023
+Edificio Laurel;38,00;diciembre;2023
+Edificio Nogal;75,00;Enero;2023
+Edificio Nogal;90,00;Febrero;2023
+Edificio Nogal;115,00;Marzo;2023
+Edificio Nogal;122,00;Abril;2023
+Edificio Nogal;117,00;Mayo;2023
+Edificio Nogal;94,00;Junio;2023
+Edificio Nogal;71,00;Julio;2023
+Edificio Nogal;79,00;Agosto;2023
+Edificio Nogal;255,00;Setiembre;2023
+Edificio Nogal;106,00;Octubre;2023
+Edificio Nogal;110,00;Noviembre;2023
+Edificio Nogal;83,00;diciembre;2023
+Edificio Surá;787,00;Enero;2023
+Edificio Surá;1043,00;Febrero;2023
+Edificio Surá;712,00;Marzo;2023
+Edificio Surá;556,00;Abril;2023
+Edificio Surá;532,00;Mayo;2023
+Edificio Surá;541,00;Junio;2023
+Edificio Surá;514,00;Julio;2023
+Edificio Surá;621,00;Agosto;2023
+Edificio Surá;545,00;Setiembre;2023
+Edificio Surá;401,00;Octubre;2023
+Edificio Surá;352,00;Noviembre;2023
+Edificio Surá;238,00;diciembre;2023
+Ombú 1;12,00;Enero;2023
+Ombú 1;25,00;Febrero;2023
+Ombú 1;32,00;Marzo;2023
+Ombú 1;29,00;Abril;2023
+Ombú 1;25,00;Mayo;2023
+Ombú 1;31,00;Junio;2023
+Ombú 1;30,00;Julio;2023
+Ombú 1;29,00;Agosto;2023
+Ombú 1;30,00;Setiembre;2023
+Ombú 1;38,00;Octubre;2023
+Ombú 1;32,00;Noviembre;2023
+Ombú 1;16,00;diciembre;2023
+Ombú 2;19,00;Enero;2023
+Ombú 2;38,00;Febrero;2023
+Ombú 2;58,00;Marzo;2023
+Ombú 2;52,00;Abril;2023
+Ombú 2;46,00;Mayo;2023
+Ombú 2;46,00;Junio;2023
+Ombú 2;47,00;Julio;2023
+Ombú 2;41,00;Agosto;2023
+Ombú 2;47,00;Setiembre;2023
+Ombú 2;82,00;Octubre;2023
+Ombú 2;96,00;Noviembre;2023
+Ombú 2;18,00;diciembre;2023
+Residencia Baobad;4,00;Enero;2023
+Residencia Baobad;10,00;Febrero;2023
+Residencia Baobad;11,00;Marzo;2023
+Residencia Baobad;9,00;Abril;2023
+Residencia Baobad;10,00;Mayo;2023
+Residencia Baobad;12,00;Junio;2023
+Residencia Baobad;11,00;Julio;2023
+Residencia Baobad;9,00;Agosto;2023
+Residencia Baobad;11,00;Setiembre;2023
+Residencia Baobad;7,00;Octubre;2023
+Residencia Baobad;9,00;Noviembre;2023
+Residencia Baobad;6,00;diciembre;2023
+Edificio Almendro;75,00;Enero;2024
+Edificio Almendro;112,00;Febrero;2024
+Edificio Almendro;111,00;Marzo;2024
+Edificio Almendro;97,00;Abril;2024
+Edificio Almendro;93,00;mayo;2024
+Edificio Almendro;92,00;junio;2024
+Edificio Almendro;85,00;Julio;2024
+Edificio Almendro;76,00;Agosto;2024
+Edificio Almendro;38,00;Septiembre;2024
+Edificio Caoba (Piñal);14,00;Enero;2024
+Edificio Caoba (Piñal);21,00;Febrero;2024
+Edificio Caoba (Piñal);21,00;Marzo;2024
+Edificio Caoba (Piñal);20,00;Abril;2024
+Edificio Caoba (Piñal);29,00;mayo;2024
+Edificio Caoba (Piñal);31,00;junio;2024
+Edificio Caoba (Piñal);30,00;Julio;2024
+Edificio Caoba (Piñal);20,00;Agosto;2024
+Edificio Caoba (Piñal);16,00;Septiembre;2024
+Edificio Carey;50,00;Enero;2024
+Edificio Carey;39,00;Febrero;2024
+Edificio Carey;67,00;Marzo;2024
+Edificio Carey;67,00;Abril;2024
+Edificio Carey;79,00;mayo;2024
+Edificio Carey;98,00;junio;2024
+Edificio Carey;89,00;Julio;2024
+Edificio Carey;59,00;Agosto;2024
+Edificio Carey;73,00;Septiembre;2024
+Edificio Cedro ;117,00;Enero;2024
+Edificio Cedro ;147,00;Febrero;2024
+Edificio Cedro ;144,00;Marzo;2024
+Edificio Cedro ;110,00;Abril;2024
+Edificio Cedro ;126,00;mayo;2024
+Edificio Cedro ;152,00;junio;2024
+Edificio Cedro ;131,00;Julio;2024
+Edificio Cedro ;93,00;Agosto;2024
+Edificio Cedro ;110,00;Septiembre;2024
+Edificio Ebano;108,00;Enero;2024
+Edificio Ebano;125,00;Febrero;2024
+Edificio Ebano;126,00;Marzo;2024
+Edificio Ebano;110,00;Abril;2024
+Edificio Ebano;108,00;mayo;2024
+Edificio Ebano;127,00;junio;2024
+Edificio Ebano;120,00;Julio;2024
+Edificio Ebano;104,00;Agosto;2024
+Edificio Ebano;117,00;Septiembre;2024
+Edificio Gavilan ;42,00;Enero;2024
+Edificio Gavilan ;72,00;Febrero;2024
+Edificio Gavilan ;80,00;Marzo;2024
+Edificio Gavilan ;73,00;Abril;2024
+Edificio Gavilan ;62,00;mayo;2024
+Edificio Gavilan ;71,00;junio;2024
+Edificio Gavilan ;67,00;Julio;2024
+Edificio Gavilan ;51,00;Agosto;2024
+Edificio Gavilan ;77,00;Septiembre;2024
+Edificio Guarumo;76,00;Enero;2024
+Edificio Guarumo;103,00;Febrero;2024
+Edificio Guarumo;114,00;Marzo;2024
+Edificio Guarumo;102,00;Abril;2024
+Edificio Guarumo;114,00;mayo;2024
+Edificio Guarumo;129,00;junio;2024
+Edificio Guarumo;120,00;Julio;2024
+Edificio Guarumo;94,00;Agosto;2024
+Edificio Guarumo;105,00;Septiembre;2024
+Edificio Guayacán (Loma);13,00;Enero;2024
+Edificio Guayacán (Loma);17,00;Febrero;2024
+Edificio Guayacán (Loma);18,00;Marzo;2024
+Edificio Guayacán (Loma);16,00;Abril;2024
+Edificio Guayacán (Loma);19,00;mayo;2024
+Edificio Guayacán (Loma);19,00;junio;2024
+Edificio Guayacán (Loma);16,00;Julio;2024
+Edificio Guayacán (Loma);15,00;Agosto;2024
+Edificio Guayacán (Loma);20,00;Septiembre;2024
+Edificio Laurel;75,00;Enero;2024
+Edificio Laurel;97,00;Febrero;2024
+Edificio Laurel;108,00;Marzo;2024
+Edificio Laurel;90,00;Abril;2024
+Edificio Laurel;109,00;mayo;2024
+Edificio Laurel;112,00;junio;2024
+Edificio Laurel;96,00;Julio;2024
+Edificio Laurel;90,00;Agosto;2024
+Edificio Laurel;82,00;Septiembre;2024
+Edificio Nogal;161,00;Enero;2024
+Edificio Nogal;41,00;Febrero;2024
+Edificio Nogal;133,00;Marzo;2024
+Edificio Nogal;146,00;Abril;2024
+Edificio Nogal;182,00;mayo;2024
+Edificio Nogal;239,00;junio;2024
+Edificio Nogal;555,00;Julio;2024
+Edificio Nogal;995,00;Agosto;2024
+Edificio Nogal;93,00;Septiembre;2024
+Edificio Surá;289,00;Enero;2024
+Edificio Surá;385,00;Febrero;2024
+Edificio Surá;499,00;Marzo;2024
+Edificio Surá;598,00;Abril;2024
+Edificio Surá;963,00;mayo;2024
+Edificio Surá;780,00;junio;2024
+Edificio Surá;308,00;Julio;2024
+Edificio Surá;323,00;Agosto;2024
+Edificio Surá;314,00;Septiembre;2024
+Ombú 1;30,00;Enero;2024
+Ombú 1;97,00;Febrero;2024
+Ombú 1;222,00;Marzo;2024
+Ombú 1;44,00;Abril;2024
+Ombú 1;41,00;mayo;2024
+Ombú 1;44,00;junio;2024
+Ombú 1;42,00;Julio;2024
+Ombú 1;44,00;Agosto;2024
+Ombú 1;34,00;Septiembre;2024
+Ombú 2;30,00;Enero;2024
+Ombú 2;56,00;Febrero;2024
+Ombú 2;56,00;Marzo;2024
+Ombú 2;47,00;Abril;2024
+Ombú 2;50,00;mayo;2024
+Ombú 2;58,00;junio;2024
+Ombú 2;58,00;Julio;2024
+Ombú 2;42,00;Agosto;2024
+Ombú 2;29,00;Septiembre;2024
+Residencia Baobad;6,00;Enero;2024
+Residencia Baobad;10,00;Febrero;2024
+Residencia Baobad;9,00;Marzo;2024
+Residencia Baobad;9,00;Abril;2024
+Residencia Baobad;9,00;mayo;2024
+Residencia Baobad;11,00;junio;2024
+Residencia Baobad;3,00;Julio;2024
+Residencia Baobad;7,00;Agosto;2024
+Residencia Baobad;8,00;Septiembre;2024
